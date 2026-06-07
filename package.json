@@ -1,0 +1,28 @@
+{
+  "name": "code-arche",
+  "version": "1.0.0",
+  "description": "The Nexus of CODE ARCHE - #22 THIA/Sanctuary of the Artist",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo \"Static HTML - no build required\"",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/you9988001-glitch/CODE-ARCHE.git"
+  },
+  "keywords": [
+    "code-arche",
+    "vercel-analytics"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/you9988001-glitch/CODE-ARCHE/issues"
+  },
+  "homepage": "https://github.com/you9988001-glitch/CODE-ARCHE#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
