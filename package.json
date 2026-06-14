@@ -1,0 +1,13 @@
+{
+  "name": "code-arche",
+  "version": "1.0.0",
+  "description": "The Nexus of CODE ARCHE - Static HTML project with Vercel Analytics",
+  "private": true,
+  "scripts": {
+    "build": "echo 'Static HTML project - no build step needed'",
+    "dev": "python3 -m http.server 3000 || python -m SimpleHTTPServer 3000"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  }
+}
